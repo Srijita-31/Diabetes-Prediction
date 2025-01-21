@@ -34,3 +34,22 @@ The following machine learning algorithms are used in this project:
 - **Decision Tree**
 
 The model's performance is evaluated based on accuracy and other classification metrics.
+## Usage
+
+1. Loading the dataset:
+   - The dataset can be loaded directly from a `diabetes.csv` file using Pandas.
+   
+2. Preprocessing the data:
+   - Handling missing values, normalizing/scaling the data, and splitting it into training and testing sets.
+   
+3. Training the model:
+   - Using machine learning models such as Logistic Regression, Random Forest, or SVM to train on the dataset.
+   
+4. Evaluating the model:
+   - Checking the performance of the model using metrics like accuracy, precision, recall, and F1-score.
+
+5. Make Predictions:
+   - After training the model, I have used it to predict the diabetes status for new data.
+
+## Results
+The model achieved an accuracy of 98% on the test dataset. 
