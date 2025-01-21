@@ -1,4 +1,4 @@
-![Diabetes Model](diabetes-model.png)
+
 # Diabetes Prediction
 
 This repository contains a machine learning model designed to predict the likelihood of diabetes in patients based on various medical attributes. The model leverages historical data to help healthcare providers in early detection and management of diabetes.
