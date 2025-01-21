@@ -1,3 +1,4 @@
+![Diabetes Model](diabetes-model.png)
 
 # Diabetes Prediction
 
